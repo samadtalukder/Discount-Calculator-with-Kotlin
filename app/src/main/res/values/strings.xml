@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Discount Calculator</string>
+    <string name="original_price">Original Price</string>
+    <string name="discount">Discount</string>
+    <string name="you_pay">You Pay</string>
+    <string name="you_re_saving">You\'re Saving</string>
+    <string name="money_symbol">$</string>
+    <string name="percent">%</string>
+    <string name="calculate">Calculate</string>
+</resources>
